@@ -2,8 +2,10 @@
 가중치 매개변수의 적절한 값을 데이터로부터 자동으로 학습하는 능력
 ## 3.1 퍼셉트론에서 신경망으로
 ![image](https://github.com/ehdtndla123/DeepLearning_from_scatch/assets/59868624/eb2bc377-cc0e-48d6-803c-b672e9a68c8b)
-* 활성화 함수란? 입력 신호의 총합을 출력 신호로 변환하는 함수 
+
 ![image](https://github.com/ehdtndla123/DeepLearning_from_scatch/assets/59868624/bc1ade47-1877-4368-8fc3-3d9580a2287b)
+
+* 활성화 함수란? 입력 신호의 총합을 출력 신호로 변환하는 함수 
 
 ## 3.2 활성화 함수
 * 시그모이드 함수, 계단 함수, ReLU 함수
